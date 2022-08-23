@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zartaj
-- 👀 I’m interested in Backend development
-- 🌱 I’m currently learning Web3
+- 👀 I’m interested Smart Contract Development
+- 🌱 I’m currently learning Solidity.
 
 
 <!---
