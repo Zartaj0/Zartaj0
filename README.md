@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zartaj
+- 👋 Hi, I’m Zartaj
 - 👀 I’m building  safe and secure EVM compatible Smart Contracts using solidity 
 - 🌱 I’m currently learning Smart Contract security.
 
