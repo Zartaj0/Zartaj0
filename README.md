@@ -36,15 +36,6 @@ I am a Smart Contract Developer <img src="https://media.giphy.com/media/WUlplcMp
 - :zap: In my free time, I solve problems on stack overflow and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-zartaj-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Zartaj20031)
----
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgitcoin.co%2Fgrants%2F1592%2Fhardhat-formerly-buidler-by-nomic-labs&psig=AOvVaw30ZP83dSuZtW7ishzcClBi&ust=1673957742355000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCyp9iIzPwCFQAAAAAdAAAAABAD)" title="hardhat" **alt="Hardhat" width="40" height="40"/>&nbsp;
-</div> 
 
 ---
 
