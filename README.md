@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Zartaj
-- 👀 I’m building  safe and secure EVM compatible Smart Contracts using solidity 
-- 🌱 I’m currently learning Smart Contract security.
-
+- 👋 Hi, I’m Zartaj, learning about Ethereum, EVM, and solidity. 
 
 <!---
 Zartaj0/Zartaj0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
