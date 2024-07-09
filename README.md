@@ -28,9 +28,7 @@ You can click the Preview link to take a look at your changes.
 I am a Smart Contract Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Software Engineer and contributing to backend for building decentralized applications.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on stack overflow and read tech articles.
+- :seedling: Sharing what I learn on [zaryabs.com ](https://www.zaryabs.com/#/portal)
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-zartaj-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Zartaj20031)
 
