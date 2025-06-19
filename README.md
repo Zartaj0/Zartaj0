@@ -31,12 +31,3 @@ I am a Smart Contract Developer <img src="https://media.giphy.com/media/WUlplcMp
 - :seedling: Sharing what I learn on [decipherclub.com ](https://www.decipherclub.com/#/portal)
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-zartaj-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Zartaj20031)
-
----
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zartaj0&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zartaj0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
