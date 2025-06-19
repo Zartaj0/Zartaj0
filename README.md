@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zartaj, learning and building in web3. 
+- I’m Zartaj, learning and building in web3. 
 
 <!---
 Zartaj0/Zartaj0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
