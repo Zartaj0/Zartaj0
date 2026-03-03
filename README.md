@@ -16,8 +16,8 @@ You can click the Preview link to take a look at your changes.
   <div><img src="https://komarev.com/ghpvc/?username=zartaj0&style=flat-square&color=blue" alt=""/>
   </div>
   <h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/c1130bb3-72c8-4f3f-b199-5eb35335c6ee" />
+
 </h1>
     
 
