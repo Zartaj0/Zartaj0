@@ -1,5 +1,6 @@
-- I’m Zartaj, learning and building in web3. 
+ Building on Blockchain x AI 
 
+- 
 <!---
 Zartaj0/Zartaj0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -24,10 +25,5 @@ You can click the Preview link to take a look at your changes.
 </div>
 </div>
 
-### :man_technologist: About Me :
-I am a Smart Contract Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to backend for building decentralized applications.
 
-- :seedling: Sharing what I learn on [decipherclub.com ](https://www.decipherclub.com/#/portal)
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-zartaj-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Zartaj20031)
+ 
